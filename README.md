@@ -12,11 +12,11 @@ This project aims to evaluate customer satisfaction by analyzing market share an
 - Step  2:  From the SQL Server option in the Home tab in power BI Desktop SQL queries were used to select and combine different tables from the company database to import custom dataset
             into the PBIX File.
 
-   ![sql server select](https://github.com/samipdk/Analytics/assets/137905918/e56c88c2-43f8-465f-869b-1373caaab861)
+  ![sql server select](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/9c2b0c3a-159f-4fc8-9050-952be6ed17a3)
 
 - Step  3:  The columns of the importable tables are double checked and incase there are any errors they are fixed through editing the query or updating the data in the SQL database.
 
-   ![Snap 2](https://github.com/samipdk/Analytics/assets/137905918/fdb5caa2-76e5-49ec-a9ef-2ce03a25b374)
+  ![Snap 2](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/1ecea4b1-58ad-49d2-8e7d-ac0496c1697c)
 - Step  4:  The homepage is designed using a combination of Shapes, texts and images.
 - Step  5:  A bookmark navigator is added on the rectangular shape of the homepage. The list is populated after the bookmarks are addded
    ![image](https://github.com/samipdk/Analytics/assets/137905918/fbe1e6e5-c0f0-4236-a6ae-4e5d86b3e8ff)
