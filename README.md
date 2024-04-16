@@ -2,7 +2,7 @@
 This dashboard helps Life Insurance Companies understand their business performance as well as provide insights into key metrics across various dimensions of the life insurance business. The dashboard covers four revenue sources, including overall FPI, micro-insurance business, foreign employment business and Endowment Business along with additional metrics such as TPI, Renewal, Monthly Trend Analysis and Surrender Analysis. In the dashboard the life insurance companies are also categorized into four generations based on their age.
 This project aims to evaluate customer satisfaction by analyzing market share and identifying any weaknesses within various categories of the life insurance business.
 
-**Steps followed**
+**Steps followed:**
 -	Step 1: Monthly insurance statistics were downloaded from the central insurance authority's official website.
 -	Step 2: Select the excel workbook from get data in the Home tab in power BI Desktop the excel file is imported into the PBIX file.
   
