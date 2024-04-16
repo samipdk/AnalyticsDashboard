@@ -43,7 +43,7 @@ For previous year calculations:
 -	Step 12: The Industry data bookmark is selected for the bookmark navigators. This will automatically populate the navigator list with the bookmarks.
 -	Step 13: Another bookmark named home is added and after inserting an image in the Industry data page for the action of the image the Home bookmark is selected which when selected will    be directed to the home page
 
-![Step 13](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/77d76d95-961e-459d-90f2-45287899a083)
+![Step 13](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/560930c4-ed0e-4d5a-b5e0-1444754457e9)
   
 -	Step 14: The matrix tables are further designed using combinations of icons, background color based on different indicators such as growth, decline, etc.
 
