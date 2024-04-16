@@ -10,15 +10,18 @@ Steps followed
 -	Step 3: The columns of the importable tables are double checked and incase there are any errors they are fixed through editing the query or updating the data in the SQL database.
 
 ![Step 3](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/8366de64-ae9b-4978-b57d-749038824dad)
-•	Step 4: The homepage is designed using a combination of Shapes, texts and images.
-•	Step 5: A bookmark navigator is added on the rectangular shape of the  homepage. The list is populated after the bookmarks are added.
+-	Step 4: The homepage is designed using a combination of Shapes, texts and images.
+-	Step 5: A bookmark navigator is added on the rectangular shape of the  homepage. The list is populated after the bookmarks are added.
+  
 ![Step 5](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/17f370fb-7c4f-4196-9517-d552e0604898)  
-•	Step 6: The plus sign Besides the home page is selected. This will add a new page.
-•	Step 7: A square shape is inserted on the top of the page two slicers are placed for year and month. Also a bookmark navigator is inserted besides the slicers.
+-	Step 6: The plus sign Besides the home page is selected. This will add a new page.
+-	Step 7: A square shape is inserted on the top of the page two slicers are placed for year and month. Also a bookmark navigator is inserted besides the slicers.
+-	
 ![Step 7](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/0529e186-9164-41c2-99cd-5d36e8fbb6fb)
-•	Step 8: A matrix table is added and in the row pane of the matrix table the life insurance companies and generation is added.
+-	Step 8: A matrix table is added and in the row pane of the matrix table the life insurance companies and generation is added.
+  
 ![Step 8](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/eab93708-ffd4-45c4-aa25-f18ffde7155b)
-•	Step 9: Dax measures were written for all the categories of life insurance i.e. Agency Business, Micro Insurance, Foreign Employment, Total Premium Income, Renewal, Surrender.
+-	Step 9: Dax measures were written for all the categories of life insurance i.e. Agency Business, Micro Insurance, Foreign Employment, Total Premium Income, Renewal, Surrender.
 The Following Dax Measures were Used:
 
 For current year calculations: 
