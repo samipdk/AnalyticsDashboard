@@ -24,25 +24,16 @@ Steps followed
 -	Step 9: Dax measures were written for all the categories of life insurance i.e. Agency Business, Micro Insurance, Foreign Employment, Total Premium Income, Renewal, Surrender.
 The Following Dax Measures were Used:
 
-For current year calculations: 
-sum (MKT_Data_Tot [FPI])
+  For current year calculations: 
+
+![Step 9-1](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/b6ac9a97-ce10-4ee2-92e6-1ff56463e01b)
+
 For previous year calculations: 
-var Last_Date= LASTDATE (DimDate [DateValue])
-var prev_fiscal_mon=calculate (max (DimDate [PreviousYearMonthNo]), FILTER (all(DimDate),DimDate[DateValue]=Last_Date))
-var py_st_date=CALCULATE (MIN (DimDate [DateValue]), FILTER (all (DimDate),DimDate[Nepali Year Month Number]=prev_fiscal_mon))
-var py_end_date=CALCULATE (Max (DimDate [DateValue]), FILTER (all (DimDate),DimDate[Nepali Year Month Number]=prev_fiscal_mon))
-var result=CALCULATE ([Industry FPI], DATESBETWEEN(DimDate[DateValue],py_st_date,py_end_date))
-return 
-IF(
-    NOT (ISBLANK (SELECTEDVALUE(DimDate[Nepali Year Month])))
-    , result, [YTD Industry FPI Last Year]
 
-)
+![Step 9-2](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/ed6c65e7-aeca-47d4-9357-3e4dbfb2ddc0)
 
-
-•	Step 10: Nine matrix tables are selected and all of the dax measures that are calculated and placed in the values section of the matrix table.
-•	Step 11: Nine Bookmarks are added for all of the categories of the industry data and grouped together as the Industry Data.
-•	Step 12: The Industry data bookmark is selected for the bookmark navigators. This will automatically populate the navigator list with the bookmarks.
-•	Step 13: Another bookmark named home is added and after inserting an image in the Industry data page for the action of the image the Home bookmark is selected which when selected will be directed to the home page
-•	Step 14: The matrix tables are further designed using combinations of icons, background color based on different indicators such as growth, decline, etc.
-
+-	Step 10: Nine matrix tables are selected and all of the dax measures that are calculated and placed in the values section of the matrix table.
+-	Step 11: Nine Bookmarks are added for all of the categories of the industry data and grouped together as the Industry Data.
+-	Step 12: The Industry data bookmark is selected for the bookmark navigators. This will automatically populate the navigator list with the bookmarks.
+-	Step 13: Another bookmark named home is added and after inserting an image in the Industry data page for the action of the image the Home bookmark is selected which when selected will be directed to the home page
+-	Step 14: The matrix tables are further designed using combinations of icons, background color based on different indicators such as growth, decline, etc.
