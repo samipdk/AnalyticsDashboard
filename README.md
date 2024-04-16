@@ -5,7 +5,7 @@ Steps followed
 -	Step 2: Select the excel workbook from get data in the Home tab in power BI Desktop the excel file is imported into the PBIX file.
   
 
-![Step 2](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/e3e8b51b-a330-45d9-b486-9e01e91d349a)
+![Step 2](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/375e5f35-4521-4ea5-98b9-2b98baed0aba)
 
 -	Step 3: The columns of the importable tables are double checked and incase there are any errors they are fixed through editing the query or updating the data in the SQL database.
 
