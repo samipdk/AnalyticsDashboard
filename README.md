@@ -3,6 +3,7 @@ This project aims to evaluate customer satisfaction by analyzing market share an
 Steps followed
 -	Step 1: Monthly insurance statistics were downloaded from the central insurance authority's official website.
 -	Step 2: Select the excel workbook from get data in the Home tab in power BI Desktop the excel file is imported into the PBIX file.
+  
 
 ![Step 2](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/e3e8b51b-a330-45d9-b486-9e01e91d349a)
 
