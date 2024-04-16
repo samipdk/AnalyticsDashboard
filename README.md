@@ -8,9 +8,9 @@ This project aims to evaluate customer satisfaction by analyzing market share an
 
 ### Steps followed 
 
-- Step  1:  Monthly insurance statistics were downloaded from the central insurance authority's official website. A combination of power query and VBA were used to update and insert the              new data into the company database.
-- Step  2:  From the SQL Server option in the Home tab in power BI Desktop SQL queries were used to select and combine different tables from the company database to import custom dataset
-            into the PBIX File.
+- Step  1:  Monthly insurance statistics were downloaded from the central insurance authority's official website.
+
+- Step  2:  From the Excel option in the Home tab in power BI Desktop the excel file is imported into the PBIX file.
 
   ![sql server select](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/9c2b0c3a-159f-4fc8-9050-952be6ed17a3)
 
