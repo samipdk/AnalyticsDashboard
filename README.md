@@ -16,8 +16,9 @@ Steps followed
 ![Step 5](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/17f370fb-7c4f-4196-9517-d552e0604898)  
 -	Step 6: The plus sign Besides the home page is selected. This will add a new page.
 -	Step 7: A square shape is inserted on the top of the page two slicers are placed for year and month. Also a bookmark navigator is inserted besides the slicers.
--	
+  
 ![Step 7](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/0529e186-9164-41c2-99cd-5d36e8fbb6fb)
+
 -	Step 8: A matrix table is added and in the row pane of the matrix table the life insurance companies and generation is added.
   
 ![Step 8](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/eab93708-ffd4-45c4-aa25-f18ffde7155b)
