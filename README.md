@@ -33,7 +33,22 @@ For previous year calculations:
 ![Step 9-2](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/ed6c65e7-aeca-47d4-9357-3e4dbfb2ddc0)
 
 -	Step 10: Nine matrix tables are selected and all of the dax measures that are calculated and placed in the values section of the matrix table.
+
+![Step 10](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/e6a6c416-ec97-42fd-99dd-088c5add20cf)
+
 -	Step 11: Nine Bookmarks are added for all of the categories of the industry data and grouped together as the Industry Data.
+
+![Step 11](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/6cb43523-2580-4c3f-9127-3158fd41e5fa)
+  
 -	Step 12: The Industry data bookmark is selected for the bookmark navigators. This will automatically populate the navigator list with the bookmarks.
--	Step 13: Another bookmark named home is added and after inserting an image in the Industry data page for the action of the image the Home bookmark is selected which when selected will be directed to the home page
+-	Step 13: Another bookmark named home is added and after inserting an image in the Industry data page for the action of the image the Home bookmark is selected which when selected will    be directed to the home page
+
+![Step 13](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/77d76d95-961e-459d-90f2-45287899a083)
+  
 -	Step 14: The matrix tables are further designed using combinations of icons, background color based on different indicators such as growth, decline, etc.
+
+![Step 14](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/548064a3-967d-4e6b-90ab-29bf8badad0c)
+
+- Step 15: Save the file and publish the report to Power BI.
+
+![Step 15](https://github.com/samipdk/AnalyticsDashboard/assets/137905918/05bb19f9-6df1-42dc-a79e-87baf0112c50)
